@@ -1,7 +1,8 @@
+import HelloWorld from './Hello-word-classe-m1';
 
 function App() {
   return (
-    <div className="App">app</div>
+    <HelloWorld />
   );
 }
 
